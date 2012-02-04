@@ -1,0 +1,29 @@
+﻿Построение начато 05.02.2012 0:51:29.
+     1>Проект "C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\venje\venje.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\venje.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt hello_world.cpp
+         hello_world.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\venje.exe.embed.manifest.res" Debug\venje_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\venje.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.lib" /MACHINE:X86 Debug\venje.exe.embed.manifest.res
+         Debug\hello_world.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\venje.exe.embed.manifest" /manifest Debug\venje.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\venje.exe.embed.manifest.res" Debug\venje_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\venje.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.lib" /MACHINE:X86 Debug\venje.exe.embed.manifest.res
+         Debug\hello_world.obj
+         venje.vcxproj -> C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\Debug\venje.exe
+       FinalizeBuildStatus:
+         Файл "Debug\venje.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\venje.lastbuildstate".
+     1>Построение проекта "C:\Users\Venje\Documents\Visual Studio 2010\Projects\algorithms\venje\venje\venje.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.06
